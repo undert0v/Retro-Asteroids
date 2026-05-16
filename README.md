@@ -1,7 +1,5 @@
 # 🚀 Retro Asteroids Game
 
-**CSE444 Take-Home Exam — Vibe Coding Project (Bakım Aşaması)**
-Python 3.10+ | PyGame 2.x
 
 ---
 
